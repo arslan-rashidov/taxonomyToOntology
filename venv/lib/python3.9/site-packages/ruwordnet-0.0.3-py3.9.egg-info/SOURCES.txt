@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+ruwordnet/__init__.py
+ruwordnet/__main__.py
+ruwordnet/models.py
+ruwordnet/ruwordnet.py
+ruwordnet/utils.py
+ruwordnet.egg-info/PKG-INFO
+ruwordnet.egg-info/SOURCES.txt
+ruwordnet.egg-info/dependency_links.txt
+ruwordnet.egg-info/entry_points.txt
+ruwordnet.egg-info/requires.txt
+ruwordnet.egg-info/top_level.txt
